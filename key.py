@@ -14,7 +14,7 @@ s = '\x1b[97;1m'
 b = '\x1b[30;2m'
 n = '\x1b[30;0m'
 zz = ['.   ', '..  ', '... ', '.... ', '.....\n']
-logo = '\n\x1b[1;92m                 ╦╔═╔═╗╦ ╦n\x1b[1;92m                 ╠╩╗║╣ ╚╦╝\n\x1b[1;92m                 ╩ ╩╚═╝ ╩ \n\x1b[1;97m╔════════════════>
+logo = '\n\x1b[1;92m                 ╦╔═╔═╗╦ ╦n\x1b[1;92m                 ╠╩╗║╣ ╚╦╝\n\x1b[1;92m                 ╩ ╩╚═╝ ╩ \n\x1b[1;97m╔════════════════>'
 
 def menu():
     lagi = 'y'
@@ -65,7 +65,7 @@ def stndrt():
     print((b + '\n[!] Setting up..'))
     time.sleep(2)
     os.system('termux-reload-settings')
-    print((a + '[!] Successfully !! ^^' + c + '\n\nSupport dgn cara subcribe channel saya  : https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w \>
+    print((a + '[!] Successfully !! ^^' + c + '\n\nSupport dgn cara subcribe channel saya  : https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w \>'))
 
 
 def myv():
@@ -100,7 +100,7 @@ def myv():
     print((b + '\n[!] Setting up..'))
     time.sleep(2)
     os.system('termux-reload-settings')
-    print((a + '[!] Successfully !! ^^' + c + '\n\nSupport dgn cara subcribe channel saya  : https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w \>
+    print((a + '[!] Successfully !! ^^' + c + '\n\nSupport dgn cara subcribe channel saya  : https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w \>'))
 
 
 def thx():
